@@ -1,0 +1,6 @@
+data/org.gnome.SimpleFlashcards.desktop.in
+data/org.gnome.SimpleFlashcards.appdata.xml.in
+data/org.gnome.SimpleFlashcards.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

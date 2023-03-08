@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=simpleflashcards
+Exec=simpleflashcards
+Icon=org.gnome.SimpleFlashcards
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
